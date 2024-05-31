@@ -1,0 +1,2 @@
+#statistics of the data
+df_Salary.describe()
