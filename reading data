@@ -1,2 +1,0 @@
-df_Salary=pd.read_csv("Salary.csv")
-df_Salary.head()
