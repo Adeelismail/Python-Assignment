@@ -1,0 +1,4 @@
+#creating 'highest' graph using seaborn library
+plt.title('Highest Salary')
+sns.distplot(df_Salary['highest'])
+plt.show()
